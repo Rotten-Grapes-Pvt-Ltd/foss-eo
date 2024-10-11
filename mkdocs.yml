@@ -2,5 +2,7 @@ site_name: FOSS EO
 repo_url: https://github.com/Rotten-Grapes-Pvt-Ltd/foss-eo
 theme:
   name: material
+  icon:
+    logo:  fontawesome/solid/satellite
   features:
     - navigation.tabs

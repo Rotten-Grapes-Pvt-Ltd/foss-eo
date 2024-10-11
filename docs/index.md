@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # Welcome to FOSS EO
 
 This website contains various research papers and other resources which uses open source Earth Observation datasets.
